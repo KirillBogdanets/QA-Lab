@@ -1,6 +1,6 @@
 # QA-Lab
 
-Hello brothers and sisters
+Hello brothers and sisters from develop branch
 
 We all love EPAM
 
